@@ -105,7 +105,7 @@ void binarySearch()
 
         if (low > high)
         {
-            cout << "\n[x] elemen " << x >> " tidak ditemukan dalam array.\n";
+            cout << "\n[x] elemen " << x << " tidak ditemukan dalam array.\n";
         }
 
         cout << "\nIngin mencari lagi? (y/n): ";
